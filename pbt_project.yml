@@ -1,0 +1,57 @@
+name: jami.durgan
+description: capacity
+version: 4.7.9.855
+author: null
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: jamidurgan
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2024-11-22 23:01:26'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-11-22 23:01:26'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-11-22T23:01:26.330848Z'
+  name: plibMaven
+  version: 8.6.0-SNAPSHOT
+  id: '1436901614'
+  createdAt: '2024-11-22T23:01:26.330848Z'
+  type: plibMaven
+projectDependencies:
+  '86':
+    projectUID: 86
+    projectName: jamar.okon
+    repositoryPath: gitUri=http://gitserver:3000/dev_CVy3ebhu_team_152/dev_CVy3ebhu_project_86.git&subPath=
+    version: jamar.okon/8.1.104
+    isDefault: false
+    author: null
+    createdAt: '2024-11-22 23:01:24'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
